@@ -1,6 +1,22 @@
 {
+    "name": "callmez/wii",
+    "description": "Yii2 for wordpress.",
+    "keywords": [
+      "yii2",
+      "wordpress"
+    ],
+    "homepage": "https://github.com/callmez/wii",
+    "type": "library",
+    "authors": [
+      {
+        "name": "CallMeZ",
+        "email": "callme-z@qq.com",
+        "homepage": "https://github.com/callmez"
+      }
+    ],
     "require": {
-        "php": ">=5.4.0",
-        "yiisoft/yii2": "~2.0.13"
+      "php": ">=5.4.0",
+      "yiisoft/yii2": "~2.0.13"
     }
-}
+  }
+  
